@@ -1,0 +1,8 @@
+.content-container{
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+}
+
+

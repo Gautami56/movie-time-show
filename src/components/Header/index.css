@@ -1,0 +1,11 @@
+.head-container {
+  display: flex;
+  background-color: whitesmoke;
+ justify-content: "space-between";
+  height: 25px;
+  width: 100%;
+  border-bottom: 2px solid black;
+  align-items: center;
+  padding: 10px 0 10px 0;
+  gap: 10px;
+}

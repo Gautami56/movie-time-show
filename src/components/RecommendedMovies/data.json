@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Swatantrya Veer Savarkar",
+    "src": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/swatantra-veer-savarkar-et00330062-1709646313.jpg",
+    "imdbRating": 8.4,
+    "votes": "13.3k",
+    "type": "Biography/Drama",
+    "viewed": false
+  },
+
+  {
+    "name": "Shaitaan",
+    "src": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/shaitaan-et00384234-1706179766.jpg",
+    "imdbRating": "8",
+    "votes": "97.3k",
+    "type": "Supernatural/Thriller",
+    "viewed": false
+  },
+  {
+    "name": "Rebel(2024)",
+    "src": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/rebel-2024-et00391693-1710745508.jpg",
+    "imdbRating": "6.9",
+    "votes": "634",
+    "type": "UA",
+    "viewed": false
+  },
+
+  {
+    "name": "Kung Fu Panda 4",
+    "src": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kung-fu-panda-4-et00379741-1706177646.jpg",
+    "imdbRating": "8.5",
+    "votes": "18.8k",
+    "type": "Action/Adventure",
+    "viewed": false
+  },
+
+  {
+    "name": "Imaginary",
+    "src": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/imaginary-et00387410-1707897176.jpg",
+    "imdbRating": "6.3",
+    "votes": "98",
+    "type": "Horror/Thriller",
+    "viewed": false
+  },
+
+  {
+    "name": "Article 370",
+    "src": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/article-370-et00384444-1708669471.jpg",
+    "imdbRating": "9.3",
+    "votes": "119.8",
+    "type": "Drama/Political",
+    "viewed": false
+  },
+  {
+    "name": "Janma Runna",
+    "src": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/janma-runna-et00391898-1710850091.jpg",
+    "imdbRating": "9.6",
+    "votes": "1.4k",
+    "type": "Family",
+    "viewed": false
+  },
+  {
+    "name": "Dune: Part Two",
+    "src": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dune-part-two-et00331567-1706167890.jpg",
+    "imdbRating": "9.1",
+    "votes": "36.9k",
+    "type": "Action",
+    "viewed": false
+  }
+]

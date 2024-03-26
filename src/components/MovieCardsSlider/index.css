@@ -1,0 +1,14 @@
+.movie-carousel {
+  margin-top: 20;
+}
+
+.movie-carousel .slick-slide > * {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.movie-carousel .slick-slide img {
+  border-radius: 10px 10px 0 0; /* This will now only affect images in the movie carousel */
+}

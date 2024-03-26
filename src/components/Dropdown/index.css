@@ -1,0 +1,18 @@
+.dropdown-menu {
+    /* Set a base min-width that is appropriate for very small screens or a default width */
+    min-width: 100px; /* Adjust as needed */
+}
+
+@media (min-width: 369px) and (max-width: 768px) {
+    /* Adjusts the width for screens larger than 368px and up to 768px */
+    .dropdown-menu {
+        min-width: 80px; /* Or use width: 100%; to make it responsive */
+    }
+}
+
+@media (min-width: 769px) {
+    /* Sets the min-width for screens larger than 768px */
+    .dropdown-menu{
+        min-width: 100px;
+    }
+}
